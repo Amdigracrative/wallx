@@ -1,8 +1,32 @@
 [
   {
-    "name": "Oshi No Ko",
-    "preview1": "https://mfiles.alphacoders.com/100/thumb-350-1002092.png",
-    "preview2": "https://mfiles.alphacoders.com/995/thumb-350-995366.png",
-    "preview3": "https://mfiles.alphacoders.com/996/thumb-350-996955.png"
+    "name": "Traditional",
+    "preview1": "https://i.pinimg.com/236x/5d/30/f7/5d30f7d7f91e2d837230f1f6cd3e3bd5.jpg",
+    "preview2": "https://i.pinimg.com/236x/8b/25/2d/8b252dead85c79200c697a032a580385.jpg",
+    "preview3": "https://i.pinimg.com/236x/37/b3/ad/37b3ad5cdefa0fe888de7ec9662a647c.jpg"
+  },
+  {
+    "name": "Cute",
+    "preview1": "https://i.pinimg.com/236x/fc/71/ef/fc71ef7ee3197d97f214d14cd4321754.jpg",
+    "preview2": "https://i.pinimg.com/236x/ab/f8/f1/abf8f14262f99e2863fb6c279d490498.jpg",
+    "preview3": "https://i.pinimg.com/236x/86/fe/42/86fe423fee39994da8963e44bcb3a4f8.jpg"
+  },
+  {
+    "name": "Cool",
+    "preview1": "https://i.pinimg.com/236x/3f/cf/bb/3fcfbb273428a65ae8ceca1bfdb4d8aa.jpg",
+    "preview2": "https://i.pinimg.com/236x/66/b0/c8/66b0c87f3458446e899ee23468ff0e14.jpg",
+    "preview3": "https://i.pinimg.com/236x/fb/a9/ae/fba9ae509e6cf4470e6a6b0b80ae0180.jpg"
+  },
+    {
+    "name": "Gothic",
+    "preview1": "https://i.pinimg.com/236x/46/c6/b7/46c6b78ea9502da3ec6103127db428d4.jpg",
+    "preview2": "https://i.pinimg.com/236x/2a/34/1e/2a341ee1165e6259b0ef454402dd2625.jpg",
+    "preview3": "https://i.pinimg.com/236x/74/3d/c8/743dc8ae10a87b553206b6d0dd70a1c7.jpg"
+  },
+    {
+    "name": "Futuristic",
+    "preview1": "https://i.pinimg.com/236x/64/49/3c/64493c9f4d7a6001f3586462501c718b.jpg",
+    "preview2": "https://i.pinimg.com/236x/9d/86/54/9d86543315479bd4de2e0748235aa498.jpg",
+    "preview3": "https://i.pinimg.com/236x/f8/69/28/f86928df120705eacca41eb14c7e7fd1.jpg"
   }
 ]
