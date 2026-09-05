@@ -42,13 +42,6 @@
     "premium": false
   },
   {
-    "name": "My Hero Academia 7",
-    "url": "https://mfiles.alphacoders.com/989/989865.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/989/thumb-350-989865.jpg",
-    "categories": "My Hero Academia",
-    "premium": false
-  },
-  {
     "name": "My Hero Academia 8",
     "url": "https://mfiles.alphacoders.com/879/879896.jpg",
     "previewUrl": "https://mfiles.alphacoders.com/879/thumb-350-879896.jpg",
@@ -70,13 +63,6 @@
     "premium": false
   },
   {
-    "name": "My Hero Academia 11",
-    "url": "https://mfiles.alphacoders.com/929/929338.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/929/thumb-350-929338.jpg",
-    "categories": "My Hero Academia",
-    "premium": true
-  },
-  {
     "name": "My Hero Academia 12",
     "url": "https://mfiles.alphacoders.com/693/693074.png",
     "previewUrl": "https://mfiles.alphacoders.com/693/thumb-350-693074.png",
@@ -91,23 +77,9 @@
     "premium": false
   },
   {
-    "name": "My Hero Academia 14",
-    "url": "https://mfiles.alphacoders.com/770/770557.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/770/thumb-350-770557.jpg",
-    "categories": "My Hero Academia",
-    "premium": true
-  },
-  {
     "name": "My Hero Academia 15",
     "url": "https://mfiles.alphacoders.com/817/817705.jpg",
     "previewUrl": "https://mfiles.alphacoders.com/817/thumb-350-817705.jpg",
-    "categories": "My Hero Academia",
-    "premium": false
-  },
-  {
-    "name": "My Hero Academia 16",
-    "url": "https://mfiles.alphacoders.com/726/726463.png",
-    "previewUrl": "https://mfiles.alphacoders.com/726/thumb-350-726463.png",
     "categories": "My Hero Academia",
     "premium": false
   },
@@ -126,39 +98,11 @@
     "premium": false
   },
   {
-    "name": "My Hero Academia 19",
-    "url": "https://mfiles.alphacoders.com/844/844161.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/844/thumb-350-844161.jpg",
-    "categories": "My Hero Academia",
-    "premium": false
-  },
-  {
-    "name": "My Hero Academia 20",
-    "url": "https://mfiles.alphacoders.com/864/864270.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/864/thumb-350-864270.jpg",
-    "categories": "My Hero Academia",
-    "premium": false
-  },
-  {
     "name": "My Hero Academia 21",
     "url": "https://mfiles.alphacoders.com/814/814107.png",
     "previewUrl": "https://mfiles.alphacoders.com/814/thumb-350-814107.png",
     "categories": "My Hero Academia",
     "premium": true
-  },
-  {
-    "name": "My Hero Academia 22",
-    "url": "https://mfiles.alphacoders.com/821/821640.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/821/thumb-350-821640.jpg",
-    "categories": "My Hero Academia",
-    "premium": false
-  },
-  {
-    "name": "My Hero Academia 23",
-    "url": "https://mfiles.alphacoders.com/808/808539.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/808/thumb-350-808539.jpg",
-    "categories": "My Hero Academia",
-    "premium": false
   },
   {
     "name": "My Hero Academia 24",
@@ -189,32 +133,11 @@
     "premium": true
   },
   {
-    "name": "My Hero Academia 28",
-    "url": "https://mfiles.alphacoders.com/887/887849.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/887/thumb-350-887849.jpg",
-    "categories": "My Hero Academia",
-    "premium": false
-  },
-  {
     "name": "My Hero Academia 29",
     "url": "https://mfiles.alphacoders.com/744/744996.png",
     "previewUrl": "https://mfiles.alphacoders.com/744/thumb-350-744996.png",
     "categories": "My Hero Academia",
     "premium": false
-  },
-  {
-    "name": "My Hero Academia 30",
-    "url": "https://mfiles.alphacoders.com/785/785258.png",
-    "previewUrl": "https://mfiles.alphacoders.com/785/thumb-350-785258.png",
-    "categories": "My Hero Academia",
-    "premium": false
-  },
-  {
-    "name": "My Hero Academia 31",
-    "url": "https://mfiles.alphacoders.com/773/773603.png",
-    "previewUrl": "https://mfiles.alphacoders.com/773/thumb-350-773603.png",
-    "categories": "My Hero Academia",
-    "premium": true
   },
   {
     "name": "My Hero Academia 32",
@@ -229,13 +152,6 @@
     "previewUrl": "https://mfiles.alphacoders.com/719/thumb-350-719044.png",
     "categories": "My Hero Academia",
     "premium": false
-  },
-  {
-    "name": "My Hero Academia 34",
-    "url": "https://mfiles.alphacoders.com/772/772000.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/772/thumb-350-772000.jpg",
-    "categories": "My Hero Academia",
-    "premium": true
   },
   {
     "name": "My Hero Academia 35",
@@ -539,13 +455,6 @@
     "premium": true
   },
   {
-    "name": "Solo Leveling 42",
-    "url": "https://mfiles.alphacoders.com/882/882419.png",
-    "previewUrl": "https://mfiles.alphacoders.com/882/thumb-350-882419.png",
-    "categories": "Solo Leveling",
-    "premium": false
-  },
-  {
     "name": "Solo Leveling 43",
     "url": "https://mfiles.alphacoders.com/875/875751.png",
     "previewUrl": "https://mfiles.alphacoders.com/875/thumb-350-875751.png",
@@ -588,13 +497,6 @@
     "premium": false
   },
   {
-    "name": "Attack On Titan 1",
-    "url": "https://mfiles.alphacoders.com/792/792834.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/792/thumb-350-792834.jpg",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
     "name": "Attack On Titan 2",
     "url": "https://mfiles.alphacoders.com/650/650655.png",
     "previewUrl": "https://mfiles.alphacoders.com/650/thumb-350-650655.png",
@@ -623,32 +525,11 @@
     "premium": true
   },
   {
-    "name": "Attack On Titan 6",
-    "url": "https://mfiles.alphacoders.com/560/560943.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/560/thumb-350-560943.jpg",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
-    "name": "Attack On Titan 7",
-    "url": "https://mfiles.alphacoders.com/560/560975.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/560/thumb-350-560975.jpg",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
     "name": "Attack On Titan 8",
     "url": "https://mfiles.alphacoders.com/101/1014015.png",
     "previewUrl": "https://mfiles.alphacoders.com/101/thumb-350-1014015.png",
     "categories": "Attack On Titan",
     "premium": false
-  },
-  {
-    "name": "Attack On Titan 9",
-    "url": "https://mfiles.alphacoders.com/948/948506.png",
-    "previewUrl": "https://mfiles.alphacoders.com/948/thumb-350-948506.png",
-    "categories": "Attack On Titan",
-    "premium": true
   },
   {
     "name": "Attack On Titan 10",
@@ -784,23 +665,9 @@
     "premium": false
   },
   {
-    "name": "Attack On Titan 29",
-    "url": "https://mfiles.alphacoders.com/558/558181.png",
-    "previewUrl": "https://mfiles.alphacoders.com/558/thumb-350-558181.png",
-    "categories": "Attack On Titan",
-    "premium": true
-  },
-  {
     "name": "Attack On Titan 30",
     "url": "https://mfiles.alphacoders.com/874/874438.jpg",
     "previewUrl": "https://mfiles.alphacoders.com/874/thumb-350-874438.jpg",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
-    "name": "Attack On Titan 31",
-    "url": "https://mfiles.alphacoders.com/962/962829.png",
-    "previewUrl": "https://mfiles.alphacoders.com/962/thumb-350-962829.png",
     "categories": "Attack On Titan",
     "premium": false
   },
@@ -861,60 +728,11 @@
     "premium": false
   },
   {
-    "name": "Attack On Titan 40",
-    "url": "https://mfiles.alphacoders.com/904/904499.png",
-    "previewUrl": "https://mfiles.alphacoders.com/904/thumb-350-904499.png",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
     "name": "Attack On Titan 41",
     "url": "https://mfiles.alphacoders.com/650/650653.png",
     "previewUrl": "https://mfiles.alphacoders.com/650/thumb-350-650653.png",
     "categories": "Attack On Titan",
     "premium": true
-  },
-  {
-    "name": "Attack On Titan 42",
-    "url": "https://mfiles.alphacoders.com/855/855388.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/855/thumb-350-855388.jpg",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
-    "name": "Attack On Titan 43",
-    "url": "https://mfiles.alphacoders.com/679/679527.png",
-    "previewUrl": "https://mfiles.alphacoders.com/679/thumb-350-679527.png",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
-    "name": "Attack On Titan 44",
-    "url": "https://mfiles.alphacoders.com/681/681244.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/681/thumb-350-681244.jpg",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
-    "name": "Attack On Titan 45",
-    "url": "https://mfiles.alphacoders.com/558/558418.png",
-    "previewUrl": "https://mfiles.alphacoders.com/558/thumb-350-558418.png",
-    "categories": "Attack On Titan",
-    "premium": true
-  },
-  {
-    "name": "Attack On Titan 46",
-    "url": "https://mfiles.alphacoders.com/558/558345.png",
-    "previewUrl": "https://mfiles.alphacoders.com/558/thumb-350-558345.png",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
-    "name": "Attack On Titan 47",
-    "url": "https://mfiles.alphacoders.com/492/492548.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/492/thumb-350-492548.jpg",
-    "categories": "Attack On Titan",
-    "premium": false
   },
   {
     "name": "Attack On Titan 48",
@@ -934,13 +752,6 @@
     "name": "Attack On Titan 50",
     "url": "https://mfiles.alphacoders.com/101/1012938.png",
     "previewUrl": "https://mfiles.alphacoders.com/101/thumb-350-1012938.png",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
-    "name": "Attack On Titan 51",
-    "url": "https://mfiles.alphacoders.com/900/900341.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/900/thumb-350-900341.jpg",
     "categories": "Attack On Titan",
     "premium": false
   },
@@ -973,30 +784,9 @@
     "premium": false
   },
   {
-    "name": "Attack On Titan 56",
-    "url": "https://mfiles.alphacoders.com/668/668809.png",
-    "previewUrl": "https://mfiles.alphacoders.com/668/thumb-350-668809.png",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
-    "name": "Attack On Titan 57",
-    "url": "https://mfiles.alphacoders.com/797/797448.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/797/thumb-350-797448.jpg",
-    "categories": "Attack On Titan",
-    "premium": true
-  },
-  {
     "name": "Attack On Titan 58",
     "url": "https://mfiles.alphacoders.com/904/904085.jpg",
     "previewUrl": "https://mfiles.alphacoders.com/904/thumb-350-904085.jpg",
-    "categories": "Attack On Titan",
-    "premium": false
-  },
-  {
-    "name": "Attack On Titan 59",
-    "url": "https://mfiles.alphacoders.com/784/784266.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/784/thumb-350-784266.jpg",
     "categories": "Attack On Titan",
     "premium": false
   },
@@ -1018,13 +808,6 @@
     "name": "Oshi No Ko 3",
     "url": "https://mfiles.alphacoders.com/996/996955.png",
     "previewUrl": "https://mfiles.alphacoders.com/996/thumb-350-996955.png",
-    "categories": "Oshi No Ko",
-    "premium": false
-  },
-  {
-    "name": "Oshi No Ko 4",
-    "url": "https://mfiles.alphacoders.com/992/992949.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/992/thumb-350-992949.jpg",
     "categories": "Oshi No Ko",
     "premium": false
   },
@@ -1113,13 +896,6 @@
     "premium": false
   },
   {
-    "name": "No Game No Life 1",
-    "url": "https://mfiles.alphacoders.com/922/922345.png",
-    "previewUrl": "https://mfiles.alphacoders.com/922/thumb-350-922345.png",
-    "categories": "No Game No Life",
-    "premium": false
-  },
-  {
     "name": "No Game No Life 2",
     "url": "https://mfiles.alphacoders.com/706/706026.jpg",
     "previewUrl": "https://mfiles.alphacoders.com/706/thumb-350-706026.jpg",
@@ -1134,39 +910,11 @@
     "premium": false
   },
   {
-    "name": "No Game No Life 4",
-    "url": "https://mfiles.alphacoders.com/962/962256.png",
-    "previewUrl": "https://mfiles.alphacoders.com/962/thumb-350-962256.png",
-    "categories": "No Game No Life",
-    "premium": false
-  },
-  {
     "name": "No Game No Life 5",
     "url": "https://mfiles.alphacoders.com/679/679749.png",
     "previewUrl": "https://mfiles.alphacoders.com/679/thumb-350-679749.png",
     "categories": "No Game No Life",
     "premium": true
-  },
-  {
-    "name": "No Game No Life 6",
-    "url": "https://mfiles.alphacoders.com/783/783770.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/783/thumb-350-783770.jpg",
-    "categories": "No Game No Life",
-    "premium": false
-  },
-  {
-    "name": "No Game No Life 7",
-    "url": "https://mfiles.alphacoders.com/674/674006.png",
-    "previewUrl": "https://mfiles.alphacoders.com/674/thumb-350-674006.png",
-    "categories": "No Game No Life",
-    "premium": false
-  },
-  {
-    "name": "No Game No Life 8",
-    "url": "https://mfiles.alphacoders.com/840/840098.png",
-    "previewUrl": "https://mfiles.alphacoders.com/840/thumb-350-840098.png",
-    "categories": "No Game No Life",
-    "premium": false
   },
   {
     "name": "No Game No Life 9",
@@ -1176,32 +924,11 @@
     "premium": true
   },
   {
-    "name": "No Game No Life 10",
-    "url": "https://mfiles.alphacoders.com/763/763218.png",
-    "previewUrl": "https://mfiles.alphacoders.com/763/thumb-350-763218.png",
-    "categories": "No Game No Life",
-    "premium": false
-  },
-  {
     "name": "No Game No Life 11",
     "url": "https://mfiles.alphacoders.com/710/710254.png",
     "previewUrl": "https://mfiles.alphacoders.com/710/thumb-350-710254.png",
     "categories": "No Game No Life",
     "premium": false
-  },
-  {
-    "name": "No Game No Life 12",
-    "url": "https://mfiles.alphacoders.com/729/729169.png",
-    "previewUrl": "https://mfiles.alphacoders.com/729/thumb-350-729169.png",
-    "categories": "No Game No Life",
-    "premium": false
-  },
-  {
-    "name": "No Game No Life 13",
-    "url": "https://mfiles.alphacoders.com/652/652259.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/652/thumb-350-652259.jpg",
-    "categories": "No Game No Life",
-    "premium": true
   },
   {
     "name": "Sword Art Online 1",
@@ -1216,13 +943,6 @@
     "previewUrl": "https://mfiles.alphacoders.com/995/thumb-350-995399.jpeg",
     "categories": "Sword Art Online",
     "premium": true
-  },
-  {
-    "name": "Sword Art Online 3",
-    "url": "https://mfiles.alphacoders.com/781/781913.png",
-    "previewUrl": "https://mfiles.alphacoders.com/781/thumb-350-781913.png",
-    "categories": "Sword Art Online",
-    "premium": false
   },
   {
     "name": "Sword Art Online 4",
@@ -1246,53 +966,11 @@
     "premium": false
   },
   {
-    "name": "Sword Art Online 7",
-    "url": "https://mfiles.alphacoders.com/690/690780.png",
-    "previewUrl": "https://mfiles.alphacoders.com/690/thumb-350-690780.png",
-    "categories": "Sword Art Online",
-    "premium": false
-  },
-  {
     "name": "Sword Art Online 8",
     "url": "https://mfiles.alphacoders.com/217/217578.jpg",
     "previewUrl": "https://mfiles.alphacoders.com/217/thumb-350-217578.jpg",
     "categories": "Sword Art Online",
     "premium": false
-  },
-  {
-    "name": "Sword Art Online 9",
-    "url": "https://mfiles.alphacoders.com/667/667478.png",
-    "previewUrl": "https://mfiles.alphacoders.com/667/thumb-350-667478.png",
-    "categories": "Sword Art Online",
-    "premium": true
-  },
-  {
-    "name": "Sword Art Online 10",
-    "url": "https://mfiles.alphacoders.com/824/824435.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/824/thumb-350-824435.jpg",
-    "categories": "Sword Art Online",
-    "premium": false
-  },
-  {
-    "name": "Sword Art Online 11",
-    "url": "https://mfiles.alphacoders.com/690/690783.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/690/thumb-350-690783.jpg",
-    "categories": "Sword Art Online",
-    "premium": false
-  },
-  {
-    "name": "Sword Art Online 12",
-    "url": "https://mfiles.alphacoders.com/981/981854.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/981/thumb-350-981854.jpg",
-    "categories": "Sword Art Online",
-    "premium": false
-  },
-  {
-    "name": "Sword Art Online 13",
-    "url": "https://mfiles.alphacoders.com/717/717490.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/717/thumb-350-717490.jpg",
-    "categories": "Sword Art Online",
-    "premium": true
   },
   {
     "name": "Sword Art Online 14",
@@ -1309,41 +987,6 @@
     "premium": false
   },
   {
-    "name": "Sword Art Online 16",
-    "url": "https://mfiles.alphacoders.com/888/888337.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/888/thumb-350-888337.jpg",
-    "categories": "Sword Art Online",
-    "premium": false
-  },
-  {
-    "name": "Sword Art Online 17",
-    "url": "https://mfiles.alphacoders.com/670/670795.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/670/thumb-350-670795.jpg",
-    "categories": "Sword Art Online",
-    "premium": true
-  },
-  {
-    "name": "Sword Art Online 18",
-    "url": "https://mfiles.alphacoders.com/788/788555.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/788/thumb-350-788555.jpg",
-    "categories": "Sword Art Online",
-    "premium": false
-  },
-  {
-    "name": "Sword Art Online 19",
-    "url": "https://mfiles.alphacoders.com/758/758100.png",
-    "previewUrl": "https://mfiles.alphacoders.com/758/thumb-350-758100.png",
-    "categories": "Sword Art Online",
-    "premium": false
-  },
-  {
-    "name": "Sword Art Online 20",
-    "url": "https://mfiles.alphacoders.com/959/959863.png",
-    "previewUrl": "https://mfiles.alphacoders.com/959/thumb-350-959863.png",
-    "categories": "Sword Art Online",
-    "premium": false
-  },
-  {
     "name": "Sword Art Online 21",
     "url": "https://mfiles.alphacoders.com/761/761415.png",
     "previewUrl": "https://mfiles.alphacoders.com/761/thumb-350-761415.png",
@@ -1354,13 +997,6 @@
     "name": "Sword Art Online 22",
     "url": "https://mfiles.alphacoders.com/959/959552.png",
     "previewUrl": "https://mfiles.alphacoders.com/959/thumb-350-959552.png",
-    "categories": "Sword Art Online",
-    "premium": false
-  },
-  {
-    "name": "Sword Art Online 23",
-    "url": "https://mfiles.alphacoders.com/959/959577.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/959/thumb-350-959577.jpg",
     "categories": "Sword Art Online",
     "premium": false
   },
@@ -1498,20 +1134,6 @@
     "premium": false
   },
   {
-    "name": "One Piece 16",
-    "url": "https://mfiles.alphacoders.com/931/931397.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/931/thumb-350-931397.jpg",
-    "categories": "One Piece",
-    "premium": false
-  },
-  {
-    "name": "One Piece 17",
-    "url": "https://mfiles.alphacoders.com/931/931501.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/931/thumb-350-931501.jpg",
-    "categories": "One Piece",
-    "premium": true
-  },
-  {
     "name": "One Piece 18",
     "url": "https://mfiles.alphacoders.com/100/1002181.jpg",
     "previewUrl": "https://mfiles.alphacoders.com/100/thumb-350-1002181.jpg",
@@ -1589,13 +1211,6 @@
     "premium": false
   },
   {
-    "name": "One Piece 29",
-    "url": "https://mfiles.alphacoders.com/966/966463.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/966/thumb-350-966463.jpg",
-    "categories": "One Piece",
-    "premium": true
-  },
-  {
     "name": "One Piece 30",
     "url": "https://mfiles.alphacoders.com/990/990532.jpg",
     "previewUrl": "https://mfiles.alphacoders.com/990/thumb-350-990532.jpg",
@@ -1638,32 +1253,11 @@
     "premium": false
   },
   {
-    "name": "One Piece 36",
-    "url": "https://mfiles.alphacoders.com/743/743361.png",
-    "previewUrl": "https://mfiles.alphacoders.com/743/thumb-350-743361.png",
-    "categories": "One Piece",
-    "premium": false
-  },
-  {
     "name": "One Piece 37",
     "url": "https://mfiles.alphacoders.com/955/955391.jpg",
     "previewUrl": "https://mfiles.alphacoders.com/955/thumb-350-955391.jpg",
     "categories": "One Piece",
     "premium": true
-  },
-  {
-    "name": "One Piece 38",
-    "url": "https://mfiles.alphacoders.com/892/892485.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/892/thumb-350-892485.jpg",
-    "categories": "One Piece",
-    "premium": false
-  },
-  {
-    "name": "One Piece 39",
-    "url": "https://mfiles.alphacoders.com/813/813809.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/813/thumb-350-813809.jpg",
-    "categories": "One Piece",
-    "premium": false
   },
   {
     "name": "One Piece 40",
@@ -1687,25 +1281,11 @@
     "premium": false
   },
   {
-    "name": "One Piece 43",
-    "url": "https://mfiles.alphacoders.com/988/988703.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/988/thumb-350-988703.jpg",
-    "categories": "One Piece",
-    "premium": false
-  },
-  {
     "name": "One Piece 44",
     "url": "https://mfiles.alphacoders.com/100/1007818.png",
     "previewUrl": "https://mfiles.alphacoders.com/100/thumb-350-1007818.png",
     "categories": "One Piece",
     "premium": false
-  },
-  {
-    "name": "One Piece 45",
-    "url": "https://mfiles.alphacoders.com/634/634326.png",
-    "previewUrl": "https://mfiles.alphacoders.com/634/thumb-350-634326.png",
-    "categories": "One Piece",
-    "premium": true
   },
   {
     "name": "One Piece 46",
@@ -1755,13 +1335,6 @@
     "previewUrl": "https://mfiles.alphacoders.com/719/thumb-350-719542.jpg",
     "categories": "One Piece",
     "premium": false
-  },
-  {
-    "name": "One Piece 53",
-    "url": "https://mfiles.alphacoders.com/656/656767.jpg",
-    "previewUrl": "https://mfiles.alphacoders.com/656/thumb-350-656767.jpg",
-    "categories": "One Piece",
-    "premium": true
   },
   {
     "name": "Demon Slayer: Kimetsu no Yaiba 1",
@@ -1951,13 +1524,14 @@
     "previewUrl": "https://i.pinimg.com/236x/42/c8/57/42c857cc1eb91f331663e132e352f6c1.jpg",
     "categories": "Demon Slayer: Kimetsu no Yaiba",
     "premium": false
-  }, {
-  "name": "Naruto 1",
-  "url": "https://i.pinimg.com/1200x/ca/d5/4f/cad54f1fda388b71055dd7769e65878c.jpg",
-  "previewUrl": "https://i.pinimg.com/236x/ca/d5/4f/cad54f1fda388b71055dd7769e65878c.jpg",
-  "categories": "Naruto",
-  "premium": false
-},
+  },
+  {
+    "name": "Naruto 1",
+    "url": "https://i.pinimg.com/1200x/ca/d5/4f/cad54f1fda388b71055dd7769e65878c.jpg",
+    "previewUrl": "https://i.pinimg.com/236x/ca/d5/4f/cad54f1fda388b71055dd7769e65878c.jpg",
+    "categories": "Naruto",
+    "premium": false
+  },
   {
     "name": "Naruto 2",
     "url": "https://i.pinimg.com/1200x/6f/3b/5a/6f3b5ac20a30e62ab21ba473fdd45e16.jpg",
@@ -3050,7 +2624,7 @@
     "categories": "Jujutsu Kaisen",
     "premium": false
   },
-    {
+  {
     "name": "Frieren 1",
     "url": "https://i.pinimg.com/1200x/9b/0a/2e/9b0a2e4a259c9ba31abf5478f17f9ceb.jpg",
     "previewUrl": "https://i.pinimg.com/236x/9b/0a/2e/9b0a2e4a259c9ba31abf5478f17f9ceb.jpg",
